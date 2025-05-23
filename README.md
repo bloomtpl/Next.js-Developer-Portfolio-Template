@@ -1,36 +1,66 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# BloomTPL Developer Portfolio Template
 
-## Getting Started
+A clean, modern, and responsive portfolio template for developers.  
+Built with **Next.js 15** and **Tailwind CSS**, this template is designed to help you showcase your work, skills, and experience with style.
 
-First, run the development server:
+> Live demo: [https://bloomtpl.com/demo/dev-portfolio-template]
 
-```bash
+---
+
+## ✨ Features
+
+- ⚡️ Fully responsive layout
+- 🌗 Dark / Light mode toggle
+- 🧠 Sections: Hero, About, Experience, Skills, Projects, Contact
+- 📊 Animated skill bars (on scroll)
+- 🔗 External links to GitHub, LinkedIn, etc.
+- 💡 Simple, customizable, production-ready code
+
+---
+
+## 🛠️ Built With
+
+- [Next.js 15 (App Router)](https://nextjs.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Framer Motion](https://www.framer.com/motion/) (for scroll animations)
+- [Lucide Icons](https://lucide.dev/) (for social and UI icons)
+
+---
+
+## 🧪 Getting Started
+
+After downloading the `.zip` file from Lemon Squeezy:
+
+# 1. Unzip the archive
+
+unzip bloomtpl-portfolio-template.zip
+
+# 2. Open the folder
+
+cd bloomtpl-portfolio-template
+
+# 3. Install dependencies
+
+npm install
+
+# 4. Start the development server
+
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+et pour la license du coup
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 🔐 License
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+This template is a **paid digital product**.  
+You are allowed to:
 
-## Learn More
+- Use it for personal or commercial projects
+- Modify the code to fit your needs
 
-To learn more about Next.js, take a look at the following resources:
+You are **not allowed to**:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- Resell or redistribute this template (modified or not)
+- Share it publicly (on GitHub, forums, etc.)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+If you have any questions about usage, feel free to contact me.
