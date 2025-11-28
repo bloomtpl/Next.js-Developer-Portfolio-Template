@@ -3,7 +3,7 @@
 A clean, modern, and responsive portfolio template for developers.  
 Built with **Next.js 15** and **Tailwind CSS**, this template is designed to help you showcase your work, skills, and experience with style.
 
-> Live demo: [https://bloomtpl.com/demo/dev-portfolio-template]
+> Live demo: [[https://bloomtpl.com/demo/dev-portfolio-template](https://bloomtpl.com/nextjs-templates/free-nextjs-tailwind-css-developer-portfolio-template)]
 
 ---
 
